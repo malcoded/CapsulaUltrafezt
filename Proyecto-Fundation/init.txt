@@ -1,0 +1,31 @@
+-nos ubicamos
+-git init =>iniciamos un repositorio vacio
+-git add .  => agregar los datos a git
+-git commit -m => listo para subirse y escribimos mensaje
+-git remote add origin + https://...  la ruta del rep donde llenaremos
+-git push -u orgin master =>enviamos todos los archivos a github y fin
+
+-----------------------------------------------------------------------------
+-actualizar
+1: git add .
+2:git commit -m 'creado git ignore'
+-----------------------------------------------------------------------------
+-Eliminar archivo
+1: git rm +carpeta
+----------------------------------------
+-git page
+1: git branch gh-page
+2: git checkout gh-page
+3:git branch
+4:git status
+5: git origin gh-page
+
+
+
+
+
+
+
+
+
+
